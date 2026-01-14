@@ -1,4 +1,5 @@
-const FIREBASE_URL = "https://aquaclima-datatabase-default-rtdb.firebaseio.com/"
+const FIREBASE_URL = "https://climaneer-447f9-default-rtdb.firebaseio.com/
+:"
 
 // Global state
 let currentTheme = "light"
